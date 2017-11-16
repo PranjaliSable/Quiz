@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="question1">What was the first phone released that ran the Android OS?</string>
+    <string name="question2">Which one is not a nickname of version of android</string>
+    <string name="question3">apk in android stands for?</string>
+    <string name="question4">What are the main components of android</string>
+</resources>
